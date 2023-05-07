@@ -17,7 +17,7 @@ Lorena Abs.
 
 **Diagramas**
 Diagrama de Casos de Uso
- 
-
+![Diagrama de casos de uso](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/Diagrama%20de%20caso%20de%20uso.jpg?token=GHSAT0AAAAAACCKYWFXAEZNUEAW3Z3LRCQUZCYFMOQ)
 
 Diagrama de Classes de Domínio 
+![Diagrama de classes de domínio](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/v3%20Diagrama%20de%20Classes.jpg?token=GHSAT0AAAAAACCKYWFXOBF62ABWBRIDP3BGZCYFRLA)
