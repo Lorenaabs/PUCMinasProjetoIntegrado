@@ -10,8 +10,10 @@ Aproveite!
 Lorena Abs.
 
 ## Files
+
 **Protótipo** 
-[Protótipo](https://www.figma.com/proto/EcwGrQa5UHu4Hgjan8mWx4/Confeitaria-Sweet's-%5BProjeto-Integrado%5D?page-id=207%3A3403&node-id=207-5891&viewport=309%2C131%2C0.1&scaling=scale-down&starting-point-node-id=207%3A5891&show-proto-sidebar=1)
+
+[Protótipo Interativo](https://www.figma.com/proto/EcwGrQa5UHu4Hgjan8mWx4/Confeitaria-Sweet's-%5BProjeto-Integrado%5D?page-id=207%3A3403&node-id=207-5891&viewport=309%2C131%2C0.1&scaling=scale-down&starting-point-node-id=207%3A5891&show-proto-sidebar=1)
 
 [Vídeo Protótipo Interativo](https://clipchamp.com/watch/JDwOZM5zkfE)
 
