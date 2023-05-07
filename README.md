@@ -16,6 +16,7 @@ Lorena Abs.
 [Vídeo Protótipo Interativo](https://clipchamp.com/watch/JDwOZM5zkfE)
 
 **Diagramas**
+
 Diagrama de Casos de Uso
 ![Diagrama de casos de uso](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/Diagrama%20de%20caso%20de%20uso.jpg?token=GHSAT0AAAAAACCKYWFXAEZNUEAW3Z3LRCQUZCYFMOQ)
 
