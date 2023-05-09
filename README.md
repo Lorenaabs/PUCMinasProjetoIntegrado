@@ -13,14 +13,12 @@ Lorena Abs.
 
 **Protótipo** 
 
-[Protótipo Interativo](https://www.figma.com/proto/EcwGrQa5UHu4Hgjan8mWx4/Confeitaria-Sweet's-%5BProjeto-Integrado%5D?page-id=207%3A3403&node-id=207-5891&viewport=309%2C131%2C0.1&scaling=scale-down&starting-point-node-id=207%3A5891&show-proto-sidebar=1)
+[Protótipo Interativo](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/midia/Diagrama%20de%20caso%20de%20uso.svg)
 
 [Vídeo Protótipo Interativo](https://clipchamp.com/watch/JDwOZM5zkfE)
 
 **Diagramas**
 
-Diagrama de Casos de Uso
-![Diagrama de casos de uso](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/Diagrama%20de%20caso%20de%20uso.jpg?token=GHSAT0AAAAAACCKYWFW6PVUN4EOGOOGTKHEZC2UJBQ)
+[Diagrama de Casos de Uso](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/Diagrama%20de%20caso%20de%20uso.jpg?token=GHSAT0AAAAAACCKYWFW6PVUN4EOGOOGTKHEZC2UJBQ)
 
-Diagrama de Classes de Domínio 
-![Diagrama de classes de domínio](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/v3%20Diagrama%20de%20Classes.jpg?token=GHSAT0AAAAAACCKYWFX2E7S4WNKVOGHN3EAZC2ULBA)
+[Diagrama de Classes de Domínio](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/midia/v3%20Diagrama%20de%20Classes.svg)
