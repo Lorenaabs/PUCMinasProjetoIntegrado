@@ -22,3 +22,9 @@ Lorena Abs.
 [Diagrama de Casos de Uso](https://raw.githubusercontent.com/Lorenaabs/PUCMinasProjetoIntegrado/main/midia/Diagrama%20de%20caso%20de%20uso.jpg?token=GHSAT0AAAAAACCKYWFW6PVUN4EOGOOGTKHEZC2UJBQ)
 
 [Diagrama de Classes de Domínio](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/midia/v3%20Diagrama%20de%20Classes.svg)
+
+**Requisitos**
+
+[Requisitos Funcionais](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/Requisitos/Requisitos%20Funcionais.docx)
+
+[Requisitos Não Funcionais](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/Requisitos/Requisitos%20N%C3%A3o%20Funcionais.docx) 
