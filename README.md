@@ -28,3 +28,4 @@ Lorena Abs.
 [Requisitos Funcionais](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/Requisitos/Requisitos%20Funcionais.docx)
 
 [Requisitos Não Funcionais](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/Requisitos/Requisitos%20N%C3%A3o%20Funcionais.docx) 
+
