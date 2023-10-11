@@ -1,0 +1,46 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  USER
+  PRODUCER
+  ADMIN
+}
+
+model Users {
+  id       String @id @default(uuid())
+  email    String @unique
+  name     String
+  password String
+  country  String
+  role     Role   @default(USER)
+}
+
+model Categories {
+  id       String     @id @default(uuid())
+  name     String
+  products Products[]
+  imageUrl String
+}
+
+model Products {
+  id              String     @id @default(uuid())
+  name            String
+  description     String
+  preparation     String
+  imageUrl        String
+  bakeTime        Int
+  receiptQuantity Int
+  receiptCost     Int
+  productValue    Int
+  packs           Json
+  ingredients     Json
+  category        Categories @relation(fields: [categoryId], references: [id])
+  categoryId      String
+}
