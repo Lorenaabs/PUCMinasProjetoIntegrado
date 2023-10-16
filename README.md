@@ -32,6 +32,7 @@ Lorena Abs.
 [Requisitos Não Funcionais](https://github.com/Lorenaabs/PUCMinasProjetoIntegrado/blob/main/Requisitos/Requisitos%20N%C3%A3o%20Funcionais.docx) 
 
 **Vídeo da Aplicação**
+
 [Vídeo Confeitaria Sweet's](https://drive.google.com/file/d/11AMa4oR3pdLGEUG5cBVRt-df5cQiZzja/view?usp=sharing) 
 
 _____
